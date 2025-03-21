@@ -1,5 +1,5 @@
 # Computer_Programming_I
->Update time: 2025-03-31
+>Update time: 2025-03-21
 
 ---
 
@@ -25,7 +25,7 @@ Download and install Visual Studio: [Visual Studio Download Link](https://visual
 
 ## Directory Structure
 ```
-Computer_Programming_I-main/
+Computer_Programming_I/
 ├── Homework/
 │   ├── Assignment 01/
 │   │   ├── 1111408-hw1-1.cpp
